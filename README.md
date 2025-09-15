@@ -20,7 +20,3 @@ Just type in a Pokémon’s name, hit search, and instantly get its details like
 
 ---
 
-## 📂 Project Setup
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/pokemon-search-app.git
